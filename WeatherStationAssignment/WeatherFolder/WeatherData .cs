@@ -1,7 +1,7 @@
-﻿namespace WeatherStationAssignment.Weather;
+﻿namespace WeatherStationAssignment.WeatherFolder;
 
 using System.Collections;
-using Weather.Interfaces;
+using WeatherFolder.Interfaces;
 
 /// <summary>
 /// Here is a subject for all the Observer

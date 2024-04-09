@@ -1,5 +1,5 @@
-namespace WeatherStationAssignment.Weather;
-using Weather.Interfaces;
+namespace WeatherStationAssignment.WeatherFolder;
+using WeatherFolder.Interfaces;
 
 /// <summary>
 ///  A factory for creating different types of displays.

@@ -1,5 +1,5 @@
-namespace WeatherStationAssignment.Weather;
-using Weather.Interfaces;
+namespace WeatherStationAssignment.WeatherFolder;
+using WeatherFolder.Interfaces;
 
 /// <summary>
 /// CurrentConditionsDisplay: This observer displays the current weather conditions.
