@@ -1,4 +1,4 @@
-﻿namespace WeatherStation.Weather;
+﻿namespace WeatherStationAssignment.Weather;
 
 using System.Collections;
 using Weather.Interfaces;

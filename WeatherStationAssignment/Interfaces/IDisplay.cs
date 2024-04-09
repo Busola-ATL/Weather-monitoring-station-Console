@@ -1,4 +1,4 @@
-namespace WeatherStation.Weather.Interfaces;
+namespace WeatherStationAssignment.Weather.Interfaces;
 /// <summary>
 /// IDisplay: A generic interface that will be implemented by all observer classes. 
 /// </summary>
